@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I really struggled with this assignment. It was difficult to understand the API calls portion, so I had to rely on the solution to better understand how to best do that portion. However, once I finished the first function it clicked and I was able to better understand it. Additionally, integrating the functions proved to be easier, and while still needing to refrence the solution for the entity extraction step, I was still able to figure it out.
